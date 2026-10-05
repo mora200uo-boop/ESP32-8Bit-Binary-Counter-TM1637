@@ -19,8 +19,7 @@
 | **TM1637 VCC / GND** | 3.3V / GND |
 | **Push Button** | GPIO 4 & GND |
 | **LED 0 (LSB) -> LED 7 (MSB)** | GPIO 23, 22, 21, 19, 18, 5, 17, 16 |
-
-*(يمكنك إضافة صورة التوصيل هنا)*
+ 
 ![Wiring Diagram](wiring.png)
 
 ## 🌐 التجربة عبر Wokwi Simulation
